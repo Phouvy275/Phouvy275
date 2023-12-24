@@ -23,6 +23,11 @@ namespace ASP.Net_MVC_CoRe.Controllers
             return View();
         }
 
+        public IActionResult Diem()
+        {
+            //return View("~/Views/Home/Index.cshtml");
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
