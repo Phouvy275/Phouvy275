@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    
+    <div class=" container">
+        <div class="row">
+            <div class="row  col-12 Head">
+                @Html.Partial("_Head")
+                </div>
+                <div class=" row body col-12">
+                    <div class=" left col-3">@Html.Partial("_Menu")</div>
+
+                    <div class="right col-9">@RenderBody()</div>
+                </div>
+
+                <div class="row foot col-12">@Html.Partial("_Foot")</div>
+
+            </div>
+        </div>
+        
+    
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

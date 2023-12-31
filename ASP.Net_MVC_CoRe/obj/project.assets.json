@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe.csproj",
+      "projectUniqueName": "G:\\baiTH2\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe.csproj",
       "projectName": "ASP.Net_MVC_CoRe",
-      "projectPath": "G:\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe.csproj",
+      "projectPath": "G:\\baiTH2\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe.csproj",
       "packagesPath": "C:\\Users\\SinhVien\\.nuget\\packages\\",
-      "outputPath": "G:\\ASP.Net_MVC_CoRe\\ASP.Net_MVC_CoRe\\obj\\",
+      "outputPath": "G:\\baiTH2\\ASP.Net_MVC_CoRe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SinhVien\\AppData\\Roaming\\NuGet\\NuGet.Config",
