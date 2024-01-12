@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8xcht7Wt3hw3Lc7RGRpPkhVinwP64PDZd7e/NX+v05mFM9bOFAJfSUN/U+ZtC6mPBXmEoFYBSUIw01ZDOIZPQg==",
+  "dgSpecHash": "kxlY17pTHZcn8u9QCNyK9gR2Ki0kpkMGx6yCm1wLo674JIEdFcz6FpHjrbz3d3kvYPU1ce9zCwPWsfWp8w3tlQ==",
   "success": true,
   "projectFilePath": "G:\\baiTH\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
   "expectedPackageFiles": [
@@ -100,8 +100,7 @@
     "C:\\Users\\SinhVien\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\SinhVien\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\SinhVien\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\SinhVien\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\SinhVien\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\SinhVien\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
