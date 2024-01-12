@@ -6037,32 +6037,32 @@
     "net5.0": [
       "Microsoft.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Abstractions >= 5.0.17",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.17"
     ]
   },
   "packageFolders": {
-    "/Users/hoangdoan/.nuget/packages/": {}
+    "C:\\Users\\SinhVien\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hoangdoan/Library/Mobile Documents/com~apple~CloudDocs/EDU/BaiTapLapTrinhWeb_ASP.Net MVC Core/SourceCode/ASP.Net_MVC_Core/ASP.Net_MVC_Core.csproj",
+      "projectUniqueName": "G:\\baiTH\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
       "projectName": "ASP.Net_MVC_Core",
-      "projectPath": "/Users/hoangdoan/Library/Mobile Documents/com~apple~CloudDocs/EDU/BaiTapLapTrinhWeb_ASP.Net MVC Core/SourceCode/ASP.Net_MVC_Core/ASP.Net_MVC_Core.csproj",
-      "packagesPath": "/Users/hoangdoan/.nuget/packages/",
-      "outputPath": "/Users/hoangdoan/Library/Mobile Documents/com~apple~CloudDocs/EDU/BaiTapLapTrinhWeb_ASP.Net MVC Core/SourceCode/ASP.Net_MVC_Core/obj/",
+      "projectPath": "G:\\baiTH\\ASP.Net_MVC_Core\\ASP.Net_MVC_Core.csproj",
+      "packagesPath": "C:\\Users\\SinhVien\\.nuget\\packages\\",
+      "outputPath": "G:\\baiTH\\ASP.Net_MVC_Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hoangdoan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\SinhVien\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6086,12 +6086,6 @@
             "version": "[5.0.17, )"
           },
           "Microsoft.EntityFrameworkCore.Abstractions": {
-            "target": "Package",
-            "version": "[5.0.17, )"
-          },
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.17, )"
           },
@@ -6121,6 +6115,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6129,7 +6129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
       }
     }
   }
